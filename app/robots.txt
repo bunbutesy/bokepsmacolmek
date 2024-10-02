@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://bokepsmacolmek.pages.dev/sitemap.xml
